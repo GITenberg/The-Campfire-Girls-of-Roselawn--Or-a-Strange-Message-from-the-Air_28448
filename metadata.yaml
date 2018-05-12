@@ -1,0 +1,31 @@
+_repo: The-Campfire-Girls-of-Roselawn--Or-a-Strange-Message-from-the-Air_28448
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio broadcasting -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Fund raising -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+title: The Campfire Girls of Roselawn; Or, a Strange Message from the Air
+url: http://www.gutenberg.org/ebooks/28448
